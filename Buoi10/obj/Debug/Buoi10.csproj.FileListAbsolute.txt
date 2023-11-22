@@ -1,0 +1,10 @@
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\bin\Debug\Buoi10.exe.config
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\bin\Debug\Buoi10.exe
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\bin\Debug\Buoi10.pdb
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.csprojAssemblyReference.cache
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.Form1.resources
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.Properties.Resources.resources
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.csproj.GenerateResource.cache
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.csproj.CoreCompileInputs.cache
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.exe
+C:\Users\h1h1m\OneDrive\Máy tính\Buoi10\Buoi10\obj\Debug\Buoi10.pdb
